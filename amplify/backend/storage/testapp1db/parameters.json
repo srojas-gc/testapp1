@@ -1,0 +1,7 @@
+{
+    "tableName": "testapp1table",
+    "partitionKeyName": "id",
+    "partitionKeyType": "S",
+    "sortKeyName": "name",
+    "sortKeyType": "S"
+}
